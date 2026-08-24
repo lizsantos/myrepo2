@@ -17,4 +17,10 @@ for(i in s){
   print(i)
 }
 ```
+another batch
+```{r}
+for(i in letters){
+  print(i)
+}
+```
 
